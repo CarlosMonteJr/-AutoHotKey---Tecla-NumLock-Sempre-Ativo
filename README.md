@@ -1,0 +1,1 @@
+# -AutoHotKey---Tecla-NumLock-Sempre-Ativo
