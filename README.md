@@ -18,7 +18,7 @@ O AutoHotkey é um excelente aplicativo gratuito para Windows que permite criar 
 
 * Salve como algo como *numlock-always-on.ahk*
 
-    Atenção para não salvar com arquivo txt, não salve como numlock-always-on.ahk .txt
+    Atenção para não salvar como arquivo txt, não salve como numlock-always-on.ahk .txt
 
 
 _
