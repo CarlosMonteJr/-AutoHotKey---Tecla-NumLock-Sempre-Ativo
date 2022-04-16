@@ -36,7 +36,7 @@ Esta é a forma mais rápida de iniciar um script AutoHotkey: incluir o seu scri
 * Para isso, pressione Win+ R, cole o trecho mostrado abaixo e pressione o botão Enter.
 
 
-         % appdata % MicrosoftWindowsMenu IniciarProgramasInicialização
+         %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 
 
 Este comando abrirá a pasta de inicialização específica do usuário. 
@@ -52,7 +52,7 @@ Este comando abrirá a pasta de inicialização específica do usuário.
 Caso você deseje que o script AutoHotkey seja iniciado independentemente de qual usuário esteja conectado, crie o atalho na pasta abaixo. É a pasta de inicialização para todos os usuários em seu sistema.
 
 
-         % programdata % MicrosoftWindowsMenu IniciarProgramasInicialização
+         %programdata%\Microsoft\Windows\Start Menu\Programs\Startup
 		 
 
 Seu item de inicialização personalizado foi criado. Sempre que você iniciar seu sistema e efetuar login, o script AutoHotkey será iniciado automaticamente.
