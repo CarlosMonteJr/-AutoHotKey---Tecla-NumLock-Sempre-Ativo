@@ -12,6 +12,8 @@ O AutoHotkey é um excelente aplicativo gratuito para Windows que permite criar 
 	https://www.autohotkey.com/
 
 
+* Baixe e instale o AutoHotKey.
+
 * Copie/cole a linha abaixo no Bloco de Notas.
 
  		SetNumLockState, AlwaysOn 
